@@ -78,6 +78,8 @@ class Menu:
             item.remove()
         if answer == 'list':
             item.list()
+        else:
+            print('goodbye')
 
 item = Menu('harry kane','1993-07-28','england','tottenham',409,261,0)
 item.pick()
