@@ -2,8 +2,8 @@ import psycopg2
 
 HOSTNAME =  'localhost'
 USERNAME =  'postgres'
-PASSWORD =  '123456789'
-DATABASE =  'Hackethon_2'
+PASSWORD =  'postgres'
+DATABASE =  'test'
 
 connection = psycopg2.connect(host = HOSTNAME, user = USERNAME, password = PASSWORD, dbname = DATABASE)
 cursor = connection.cursor()

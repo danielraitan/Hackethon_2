@@ -1,0 +1,17 @@
+
+
+
+Hello Daniel this is your Hackaton feedback. I liked the idea of your app, of course i am also a soccer fan. 
+There is some things for the future to be aware. First to all when sharing a project where there is a database
+be shure that you use a database that is in a server accesible for everyone like Heroku and not in your local
+computer as i had to create the database in my computer to be able to run the app. Or make your project create a database
+in any local computer the first time it is run. Then when i want to add a player you just put a message as 
+put the information separated with comas, but there is nothing telling the user how many arguments is waiting, 
+wich time of arguments are, so it was very easy to crush the app beacuse i amm not shure wich information sql is 
+waiting for me to add, try to make it more clear for the user. Same as edit is really not easy to understand how to.
+Well done working with a database conection and using all the differents aspects of it. In the future will be better
+if you include an interface with forms to be more user friendly. 
+You could also add a way of ordering the players for matches or goals or by alphabet.
+
+
+Congratulations on your Hackaton keep working hard.
